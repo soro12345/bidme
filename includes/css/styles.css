@@ -1,0 +1,96 @@
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+.middleSpace {height:390px;}
+
+.createSpace {margin-top:90px}
+
+#head {
+	text-align: center;
+}
+
+.register_box{ text-align:center 
+
+}
+
+.signin_box{ text-align:center 
+
+}
+#page_error {text-align:center}
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   #searchInput{
+	   width:300px;
+	   }
+   .topspace{
+	   
+	   margin-top:12px;
+	   
+	   }
+
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+.carousel-caption {
+	font-size: 24px;
+}
+
+.carousel-caption h4 {
+	font-size: 32px;
+}
+
+#myCarousel .item { height: 400px; }
+
+#slide1 {
+	background: url('../../images/hammer_slide.jpg') top center no-repeat;
+}
+
+#slide2 {
+	background: url('../../images/search_slide.jpg') top center no-repeat;
+}
+
+#slide3 {
+	background: url('../../images/earn_slide.jpg') top center no-repeat;
+}
+
+
+/* --------------------------------------
+   footer Styles
+   -------------------------------------- */
+footer {
+	background: #333;
+	color: white;
+	font-size: 11px;
+	padding: 20px;
+	margin-top: 25px;
+}
+ul.style {
+	list-style: none;
+	padding: 0;
+}
+
+.footer_space {margin-top:70px;}
+/* --------------------------------------
+   item styles
+   -------------------------------------- */
+
+.thumbnail .price {
+	font-size: 22px;
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	padding: 10px;
+}
+
+.thumbnail .price sup {
+	font-weight: normal;
+	font-size: 12px;
+}
